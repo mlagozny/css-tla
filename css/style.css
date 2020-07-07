@@ -1,0 +1,23 @@
+body {
+    background-color: blanchedalmond;
+}
+h1 {
+    background-color: cadetblue;
+    color: coral;
+}
+#paragraf1 {
+    background-color: darkgray;
+    color: darkgreen;
+}
+h2 {
+    background-color: darksalmon;
+    color: darkviolet;
+}
+#paragraf2 {
+    background-color: deepskyblue;
+    color: red;
+}
+ol {
+    background-color: greenyellow;
+    color: ivory;
+}
